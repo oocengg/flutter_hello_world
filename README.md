@@ -6,4 +6,4 @@ A new Flutter project.
 
 Berikut hasil dari kode Program Pertama Flutter Saya :
 
-![Screenshot Hasil Program](images/image1.png)
+![Screenshot Hasil Program](img/image1.png)
